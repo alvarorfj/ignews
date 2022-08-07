@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "faunadb": "^4.6.0",
     "fontawesome": "^5.6.3",
     "next": "12.2.3",
     "next-auth": "^4.10.3",
